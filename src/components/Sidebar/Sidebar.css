@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container3 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.pages {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.logos {
+    position: relative;
+    right: 50px;
+    top: 70px;
+}
+
+.sidebar {
+    margin-top: 30px;
+    margin-left: -40px;
+}
+
+.uzun {
+    position: absolute;
+    height: 700px;
+    top: 0;
+    bottom: 0;
+    margin-top: -97px;
+    left: 110%;
+}
+
+.profil_btn {
+    width: 230px;
+    height: 55px;
+    border-radius: 27.5px;
+    border: none;
+    background-color: rgba(29, 161, 242, 1);
+    color: white;
+    margin-top: 20px;
+}
+
+.row3 {
+    display: flex;
+}
+
+.right {
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.profil {
+    display: flex;
+}
+
+.profil_name {
+    margin-top: 15px;
+    margin-left: 48px;
+}
+
+.profil_subscribers {
+    margin-left: 48px;
+}
+
+.profil_view {
+    position: relative;
+    bottom: 390px;
+    left: 203px;
+    width: 700px;
+    height: 50vh;
+    background-color: #042541;
+}
+
+.profil_name_img {
+    position: relative;
+    left: 180px;
+    top: 120px;
+    color: white;
+}
+
+.bekzod {
+    width: 20%;
+    margin-top: 210px;
+    margin-left: 30px;
+    border-radius: 65px;
+}
+
+.profil_bekzod {
+    position: relative;
+    left: 20px;
+
+}
+
+.profil_telegram {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.profil_soff {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.profil_study {
+    text-decoration: none;
+}
+
+.owade {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    gap: 10px;
+}
+
+.profil_followers {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 12px;
+    gap: 14px;
+}
+
+.uzun2 {
+    position: absolute;
+    height: 600px;
+    top: 0;
+    margin-top: -97px;
+    left: 100%;
+}
+
+.profil_edit {
+    position: relative;
+    width: 120px;
+    height: 44px;
+    border-radius: 50px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    left: 400px;
+    bottom: 25px;
+}
+
+.profil_search {
+    position: relative;
+    bottom: 860px;
+    left: 940px ;
+    padding-left: 20px;
+    width: 212px;
+    border-radius: 31px;
+    border: 1px solid black;
+    height: 50px;
+}
+
+.peoples {
+    position: relative;
+    bottom: 680px;
+    left: 690px;
+    width: 25%;
+}
+
+.profil_people {
+    display: flex;
+    background-color: rgba(247, 249, 249, 1);
+}
+
+.profil_mushtariy {
+    display: flex;
+    position: relative;
+    bottom: 650px;
+    left: 740px;
+}
+
+.profil_shuhratbek {
+    display: flex;
+    position: relative;
+    bottom: 560px;
+    left: 525px;
+    width: 25%;
+}
+
+.profil_name_mushtariiy {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.profil_silka_mushtariy {
+    position: relative;
+    top: 4px;
+    left: 7px;
+}
+
+.profil_name_shuhratbek {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.profil_silka_shuhratbek {
+    position: relative;
+    top: 4px;
+    left: 7px;
+}
+
+.mushtariy_btn {
+    position: relative;
+    top: 15px;
+    left: 15px;
+    width: 180%;
+    height: 30px;
+    border-radius: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.shuhrat_btn {
+        position: relative;
+        top: 15px;
+        left: 15px;
+        width: 180%;
+        height: 30px;
+        border-radius: 50px;
+        border: none;
+        background-color: black;
+        color: white;
+}
+
+.profil_filter_text {
+    position: relative;
+    bottom: 700px;
+    left: 940px;
+}
